@@ -146,5 +146,9 @@
     {
         "name": "Cli Tools",
         "color": "010101"
+    },
+    {
+        "name": "bug",
+        "color": "ff0000"
     }
 ]
