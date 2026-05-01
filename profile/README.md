@@ -4,11 +4,7 @@
 
 Metaplex builds the open-source protocols, tools, and standards that power digital assets across the Solana ecosystem — from NFTs and collectibles to token launches and onchain commerce.
 
-## Get started at metaplex.com
-
-[metaplex.com](https://metaplex.com) is the home for the Metaplex ecosystem — launch tokens, create and register AI agents, and explore everything built on Metaplex without writing a line of code.
-
-## Build with us
+## Build with Metaplex
 
 - [Documentation](https://metaplex.com/docs) — guides and reference docs
 - [Smart Contracts](https://metaplex.com/docs/smart-contracts) — overview of every Metaplex onchain program
